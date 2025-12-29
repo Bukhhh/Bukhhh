@@ -93,5 +93,5 @@ I am actively seeking mentorship and opportunities to grow in:
     </ellipse>
   </svg>
   
-  <p><i>"Leaping towards the next big thing in AI & Security"</i></p>
+  <p><i>"Leaping towards the next big thing in AI &amp; Security"</i></p>
 </div>
