@@ -49,4 +49,13 @@ I am actively seeking mentorship and opportunities to grow in:
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bukhhh&theme=rose_pine&layout=compact" width="48%" />
 </p>
 
-<
+<p align="center">
+<img src="https://nirzak-streak-stats.vercel.app/?user=Bukhhh&theme=rose_pine" width="100%" />
+</p>
+
+---
+<p align="center">
+  <a href="mailto:mohdbukhari03@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
